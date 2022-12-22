@@ -1,0 +1,26 @@
+.myBG{
+    height: 100vh;
+    /* background: url("../images/bg/main.jpg"); */
+    background-size: cover;
+}
+
+.intro{
+    height: 300px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.title{
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px paleturquoise;
+    letter-spacing: 5px;
+}
+
+.shoesImages{
+    height: 200px;
+    margin: 5px;
+    padding: 5px;
+}
