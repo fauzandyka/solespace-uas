@@ -12,7 +12,7 @@ import shoesImage10 from "../images/sepatu/Sneaker Panarybody.png"
 import shoesImages11 from "../images/sepatu/Ventela Low Natural Gum.png"
 import shoesImages12 from "../images/sepatu/Ventela Noir Low.png"
 
-const Trending = () => {
+const Shoes = () => {
     return(
         <div>
             <Container>
@@ -216,4 +216,4 @@ const Trending = () => {
     )
 }
 
-export default Trending
+export default Shoes
